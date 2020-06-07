@@ -1,0 +1,20 @@
+// NEXUS EXTREME v0.22
+
+This isn't official chaplex's release. 
+It includes about 97% of Nexus v0.2 src code.
+NEXUS EXTREME is GTX's mod for chaplex's v0.2.
+So all credits goes to orginal authors...
+
+Changelog(from v0.2)
+\\---
+- pk3 file name customizer (like in newer versions);
+\\---
+- advert replaced with infobar (something like prv bots);
+\\---
+- bot spam added (just press F10, F11, or F12 :));
+\\---
+- pb proof (i think that don't have to explain it);
+\\---
+- killsounds were bugged (as chaplex said), so i removed them
+both from menu and pk3;
+\\---
